@@ -17,4 +17,3 @@ kolaylığı olmasını istedim.
 
 * [**LinkedIn Profil Linkim**](https://www.linkedin.com/in/bilal-guler/)
 * [**Patika.dev Profil Linkim**](https://app.patika.dev/guleerbilal)
-* 
