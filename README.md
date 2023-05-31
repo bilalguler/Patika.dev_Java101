@@ -9,11 +9,11 @@ kolaylığı olmasını istedim.
 * Bu repo içerisinde Java101 dersi içeriğinde olan konular: 
   * Temel Kavramlar ve Değişkenler
   * Koşullu İfadeler ve Kod Blokları
-  * Döngüler
+  * Donguler
   * Metotlar
   * Nesneye Yönelik Programlamaya Giriş
   * Sınıflar
   * Diziler
 
 * [**LinkedIn Profil Linkim**](https://www.linkedin.com/in/bilal-guler/)
-* [**Patika.dev Profil Linkim**](https://app.patika.dev/guleerbilal)
+* [**Patika.dev Profil Linkim**](https://academy.patika.dev/profile)
